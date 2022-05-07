@@ -8,8 +8,8 @@ export function Contacts() {
       <div className={`${sContainer.container} ${s.container}`}>
         <h3 className={s.title}>Контакты</h3>
         <form className={s.form}>
-          <input/>
-          <input/>
+          <input type={"text"}/>
+          <input type={"text"}/>
           <textarea></textarea>
         </form>
         <button className={s.button}>Отправить</button>

@@ -5,13 +5,22 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
+  box-sizing: border-box;
+  padding: 10px;
 }
 
-.background {
-  background-color: aquamarine;
+.background_image {
+  background-image: url("https://avatars.mds.yandex.net/i?id=1d277f69d80983219e051f91453f9715-5895790-images-thumbs&n=13&exp=1");
+  background-size: cover;
+  background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
   height: 100px;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
 }

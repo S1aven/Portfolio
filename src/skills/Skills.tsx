@@ -9,9 +9,9 @@ export function Skills() {
       <div className={`${sContainer.container} ${s.container}`} >
         <h2>My skills</h2>
         <div className={s.skills_item}>
-          <Skill title={'JS'} description={'Подробное описание навыка'}/>
-          <Skill title={'CSS'} description={'Подробное описание навыка'}/>
-          <Skill title={'React'} description={'Подробное описание навыка'}/>
+          <Skill title={'JS'} description={'Подробное описание навыка Подробное описание навыка Подробное описание навыка'}/>
+          <Skill title={'CSS'} description={'Подробное описание навыка Подробное описание навыка Подробное описание навыка'}/>
+          <Skill title={'React'} description={'Подробное описание навыка Подробное описание навыка Подробное описание навыка'}/>
         </div>
       </div>
     </div>

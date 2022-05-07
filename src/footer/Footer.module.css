@@ -1,7 +1,7 @@
 .footer{
   height: 300px;
   background-color: rgba(239, 60, 60, 0.53);
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .container {
@@ -12,7 +12,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  width: 300px;
+  width: 280px;
 }
 
 .social_item {

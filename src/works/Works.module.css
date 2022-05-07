@@ -1,5 +1,5 @@
 .works {
-  height: 100vh;
+  min-height: 50vh;
   background-color: rgba(234, 110, 191, 0.69);
 }
 
