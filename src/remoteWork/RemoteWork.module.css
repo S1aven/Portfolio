@@ -1,0 +1,10 @@
+.remote_work {
+  height: 30vh;
+  background-color: rgba(98, 98, 222, 0.29);
+  padding: 100px 0;
+}
+
+.container {
+  flex-direction: column;
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+.footer{
+  height: 300px;
+  background-color: rgba(239, 60, 60, 0.53);
+  padding: 100px 0;
+}
+
+.container {
+  flex-direction: column;
+}
+
+.social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.social_item {
+  background-color: aliceblue;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+}

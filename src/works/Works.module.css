@@ -1,0 +1,17 @@
+.works {
+  height: 100vh;
+  background-color: rgba(234, 110, 191, 0.69);
+}
+
+.container {
+  flex-direction: column;
+  justify-content: center;
+}
+
+.works_item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: 1px solid;
+  width: 70%;
+}

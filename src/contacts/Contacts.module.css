@@ -1,0 +1,15 @@
+.contacts {
+  height: 50vh;
+  background-color: darkkhaki;
+  padding: 100px 0;
+}
+
+.container {
+  flex-direction: column;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
